@@ -28,6 +28,7 @@ Alpha is set as 0.1 to prevent overfitting and 0.1 was the most efficient value 
 ![image](https://github.com/user-attachments/assets/e1b34969-4b8a-471b-82f2-d922b67c67ff)
 
 Here is our beautiful training graph
+
 ![image](https://github.com/user-attachments/assets/231c75ee-d186-492a-af3d-14c748a3a8cb)
 
 And finally, the visualisation of predictions using a regression scatter plot
