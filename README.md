@@ -1,3 +1,5 @@
+Credit - Nicholas O'Mahony & Brendan Swords 2024
+
 We chose the laptop prices data set from the following link: https://www.kaggle.com/datasets/owm4096/laptop-prices?resource=download
 
 The data set contains 23 columns, examples are CPU frequency, CPU brand name, laptop brand, screen size, ram, storage details, GPU details, laptop weight and more. We chose to use a MLP regression model to predict the price of a laptop based on the attributes of the *laptops*. All visualisations and graphs can be found at the end of this file.
